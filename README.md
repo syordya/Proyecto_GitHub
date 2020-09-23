@@ -1,4 +1,4 @@
-# Tutorial de Git y Github
+# Tutorial de Git y GitHub
 Git es un software de código abierto desarrollado por Linux, tambien se puede usar en Windows y Mac, en este tutorial aprenderemos los comandos básicos de Git y GitHub.
 
 ### Autor
