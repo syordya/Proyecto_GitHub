@@ -1,7 +1,10 @@
 # Tutorial de Git y Github
 Guia de comandos de Git y GitHub
 
-# Git local
+## Autor
+[Yordy W. Santos Apaza](https://github.com/syordya)
+
+### Git local
 <p>mkdir.. : Crear la carpeta de nuestro proyecto Git
 <p>pwd : Localizar el proyecto
 <p>cd.. : Ubicar el proyecto en el terminal
@@ -19,8 +22,9 @@ Guia de comandos de Git y GitHub
 <p>git pull : Mezcla los cambios de repositorio
 ![img](images/3c.png)
 
-# GitHub
+### GitHub
 <p>git config --global user.email "syordya@gmail.com"
 <p>git config --global user.name "Yordy Santos"
 <p>git remote add origin https://github.com/syordya/Proyecto_GitHub.git
 <p>git push -u origin 'Branch' : Subir los cambios a GitHub
+![img](images/4c.png)
