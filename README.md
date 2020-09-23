@@ -2,9 +2,9 @@
 Guia de comandos de Git y GitHub
 
 # Pasos
-mkdir.. : Crear la carpeta de nuestro proyecto
-pwd : Localizar el proyecto
-cd.. : Ubicar el proyecto en el terminal
+<p>mkdir.. : Crear la carpeta de nuestro proyecto
+<p>pwd : Localizar el proyecto
+<p>cd.. : Ubicar el proyecto en el terminal
 
 <p>git init : Para inicializar un repostorio Git</p>
 <p>git status : Para ver los cambios, agregar archivos y decirme que archivos no estoy llevndo registro</p>
