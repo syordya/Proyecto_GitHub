@@ -27,7 +27,7 @@ Git es un software de código abierto desarrollado por Linux, tambien se puede u
 
 ![img](images/2c.png)
 
-<p>git reset HEAD~1 : Mezcla los cambios de repositorio y lo actualiza localmente
+<p>git reset HEAD~1 : Regresa a la versión anterior
 
 ![img](images/3c.png)
 
